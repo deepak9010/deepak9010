@@ -1,4 +1,4 @@
-![MasterHead](https://programminginsider.com/wp-content/uploads/2023/10/techies.gif)
+![MasterHead](https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif)
 <h1 align="center">Hi 👋, I'm Deepak Singh</h1>
 <h3 align="center">A passionate Software Developer | frontend developer | Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **TypeScript,NextJS,NodeJS**
 
-- 💬 Ask me about **MERN , DSA**
+- 💬 Ask me about **MERN , DSA, CODING**
 
 - 📫 How to reach me **deepak23072019@gmail.com**
 
